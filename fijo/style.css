@@ -14,9 +14,9 @@
 /* item con pocicionamiento relativo */
 .blue-box{
     background-color: rgb(12, 181, 218);
-    position: absolute;
-    bottom: 0;
-    right: 20px;;
+    position: fixed;
+    top: 0;
+    left: 0px;;
 }
 .green-box{
     background-color: rgb(18, 234, 18);
