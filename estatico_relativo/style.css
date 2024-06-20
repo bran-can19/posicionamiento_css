@@ -10,6 +10,7 @@
     background-color: red;
     /* bottom: 400px; no funciona por la posicion  estatica */
 }
+/* item con pocicionamiento relativo */
 .blue-box{
     background-color: blue;
     position: relative;
